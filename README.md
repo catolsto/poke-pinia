@@ -1,11 +1,17 @@
-# Proyecto "Lista de Pokemones" usando Vue Composition API, Axios, Router
+# Proyecto "Lista de Pokemones" usando Vue Composition API, Axios, Router, Pinia
 
 Agrear favoritos, eliminar, datos en Almacenamiento Local de Navegador, 
 Consume la API de Pokemones  (https://pokeapi.co/)
 
 DEMO:  ( https://pokemapi-v2.netlify.app/)
 
-This template should help get you started developing with Vue 3 in Vite.
+PANTALLAZOS:
+
+![poke-1](https://user-images.githubusercontent.com/20076596/191875949-a8145805-2e95-40d9-be6a-ad2a4a630dbe.png)
+
+![poke-2](https://user-images.githubusercontent.com/20076596/191875955-0dbf151d-9137-4561-b7e1-c89aaf5a94b1.png)
+
+![poke-3](https://user-images.githubusercontent.com/20076596/191875960-904cc147-838f-4278-9e41-edb18749df85.png)
 
 ## Recommended IDE Setup
 
